@@ -21,3 +21,5 @@ cmake --build build --config Release
 windows x64 only, msvc, c++20. u can turn on OVERLAY_ENABLE_TEST_EXPORTS if u want the validation exports.
 
 i hope u guys like it
+
+also heads up, it has a lil bugs and shit like that but u should be good. just patch it if something breaks.
