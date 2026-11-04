@@ -11,8 +11,8 @@ features:
 deps (all vendored in third_party):
 - imgui (win32 + dx12 backends)
 - minhook
-- zydis
-- unicorn (x86)
+- zydis - download this 
+- unicorn (x86) - as well as this
 
 build:
 cmake -S . -B build -A x64
